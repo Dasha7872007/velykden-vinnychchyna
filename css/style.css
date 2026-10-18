@@ -985,3 +985,22 @@ p {
     width: 100%;
     max-width: 100%;
 }
+.easter-animation {
+    text-align: center;
+    margin: 40px auto;
+}
+
+.gif-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.easter-gif {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 12px;
+}
